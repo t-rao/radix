@@ -302,7 +302,7 @@
   .dec_right {
     margin-left: 40px; }
     .dec_right h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 35px;
       color: #878787;
       letter-spacing: 2px;
@@ -321,7 +321,7 @@
   .dec_left {
     margin-right: 40px; }
     .dec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 35px;
       color: #878787;
       letter-spacing: 2px;
@@ -480,13 +480,13 @@
   .vdec_left {
     margin-right: 40px; }
     .vdec_left h2 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 35px;
       letter-spacing: 2px;
       position: relative;
       top: -19px; }
     .vdec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 20px;
       letter-spacing: 2px;
       line-height: 150%; }
@@ -550,7 +550,7 @@
       footer .inner_footer p {
         font-size: 14px;
         margin-top: 20px;
-        font-family: 'Noto Serif JP', sans-serif; }
+        font-family: "Noto Sans Japanese"; }
       footer .inner_footer table {
         margin-top: 40px;
         margin-bottom: 40px;
@@ -748,7 +748,7 @@
   .dec_right {
     margin-left: 40px; }
     .dec_right h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 35px;
       color: #878787;
       letter-spacing: 2px;
@@ -767,7 +767,7 @@
   .dec_left {
     margin-right: 40px; }
     .dec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 35px;
       color: #878787;
       letter-spacing: 2px;
@@ -926,13 +926,13 @@
   .vdec_left {
     margin-right: 40px; }
     .vdec_left h2 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 35px;
       letter-spacing: 2px;
       position: relative;
       top: -19px; }
     .vdec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 20px;
       letter-spacing: 2px;
       line-height: 150%; }
@@ -996,7 +996,7 @@
       footer .inner_footer p {
         font-size: 14px;
         margin-top: 20px;
-        font-family: 'Noto Serif JP', sans-serif; }
+        font-family: "Noto Sans Japanese"; }
       footer .inner_footer table {
         margin-top: 40px;
         margin-bottom: 40px;
@@ -1157,7 +1157,7 @@
     margin-right: 40px;
     width: 100%; }
     .dec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 20px;
       color: #878787;
       letter-spacing: 2px;
@@ -1178,7 +1178,7 @@
     margin-right: 40px;
     width: 100%; }
     .dec_right h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 20px;
       color: #878787;
       letter-spacing: 2px;
@@ -1366,12 +1366,12 @@
     margin-bottom: 40px;
     width: 100%; }
     .vdec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 18px;
       letter-spacing: 2px;
       line-height: 150%; }
     .vdec_left h2 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 25px;
       letter-spacing: 2px;
       position: relative;
@@ -1441,7 +1441,7 @@
       footer .inner_footer p {
         font-size: 14px;
         margin-top: 50px;
-        font-family: 'Noto Serif JP', sans-serif; }
+        font-family: "Noto Sans Japanese"; }
       footer .inner_footer table {
         margin-top: 40px;
         margin-bottom: 40px;
@@ -1595,7 +1595,7 @@
     margin-right: 40px;
     width: 100%; }
     .dec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 20px;
       color: #878787;
       letter-spacing: 2px;
@@ -1616,7 +1616,7 @@
     margin-right: 40px;
     width: 100%; }
     .dec_right h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 20px;
       color: #878787;
       letter-spacing: 2px;
@@ -1799,12 +1799,12 @@
     margin-bottom: 40px;
     width: 100%; }
     .vdec_left h3 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 18px;
       letter-spacing: 2px;
       line-height: 150%; }
     .vdec_left h2 {
-      font-family: 'Noto Serif JP', sans-serif;
+      font-family: "Noto Sans Japanese";
       font-size: 25px;
       letter-spacing: 2px;
       position: relative;
@@ -1874,7 +1874,7 @@
       footer .inner_footer p {
         font-size: 14px;
         margin-top: 50px;
-        font-family: 'Noto Serif JP', sans-serif; }
+        font-family: "Noto Sans Japanese"; }
       footer .inner_footer table {
         margin-top: 40px;
         margin-bottom: 40px;
