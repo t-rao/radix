@@ -1925,6 +1925,12 @@ main {
   padding: 4rem;
   height: 100%; }
 
+.hidden {
+  opacity: 0; }
+
+.visible {
+  opacity: 1; }
+
 .whitebg {
   background-color: white !important; }
 

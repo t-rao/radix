@@ -50,3 +50,13 @@ $(window).on("scroll", function() {
 
     }
 });
+
+
+//view ports scroll animation
+
+$(document).ready(function() {
+$('.post').addClass("hidden").viewportChecker({
+    classToAdd: 'visible animated fadeInUp',
+    offset: 100
+   });
+});
